@@ -20,4 +20,5 @@ import com.webank.wedatasphere.linkis.manager.common.entity.persistence.Persiste
 
 public class ConfigLabel extends PersistenceLabel {
 
+    re;
 }
